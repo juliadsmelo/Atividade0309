@@ -9,8 +9,3 @@ print(sao_anagramas("luar", "raul"))
 print(sao_anagramas("vida", "mesa"))
     
 pass
-
-def cifra_de_cesar(texto, deslocamento):
-  
-  pass
-  
